@@ -1,4 +1,7 @@
-ls #list all files
-touch <filename> #create a file
-cat <filename> #open file
-cd #change Directory
+#list the files
+ls
+# create a file
+touch file1
+cat file1
+mkdir sunil
+cd sunil
