@@ -1,8 +1,8 @@
 Trainer=sunil
 class=Devops
 
-echo trainer name -$trainer
-echo class name -${devops}
+echo trainer name -$Trainer
+echo class name -${class}
 
 date=$(date +%F)
 echo Hi today date is $date
