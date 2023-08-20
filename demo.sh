@@ -3,7 +3,7 @@ ls
 # create a file
 touch file1
 cat file1
-mkdir sunil
+mkdir -p sunil
 cd sunil
 
 ls
