@@ -5,3 +5,5 @@ touch file1
 cat file1
 mkdir sunil
 cd sunil
+
+ls
