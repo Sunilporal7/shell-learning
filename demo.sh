@@ -7,3 +7,6 @@ mkdir -p poral
 cd poral
 
 ls
+
+
+
